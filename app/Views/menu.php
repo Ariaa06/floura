@@ -123,11 +123,6 @@
                     <div data-i18n="Horizontal Form">Gaji</div>
                   </a>
                 </li>
-                <li class="menu-item">
-                  <a href="<?=base_url('home/laporan')?>" class="menu-link">
-                    <div data-i18n="Horizontal Form">Laporan</div>
-                  </a>
-                </li>
               </ul>
             </li>
             <!-- Tables -->
